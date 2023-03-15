@@ -36,6 +36,6 @@ PPD Category Type	Record Status - monthly file only
 
 Record Status - monthly file only
 
-The priced paid dataset can be found here: https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads
+The price paid dataset can be found here: https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads
 
 Explanations of column headers: https://www.gov.uk/guidance/about-the-price-paid-data
