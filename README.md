@@ -44,5 +44,7 @@ Explanations of column headers: https://www.gov.uk/guidance/about-the-price-paid
 ## Content
 
 - Data cleaning
-- Modelling with Scikit learn 
+- Exploratory Data Analysis (EDA)
+- Modelling with Scikit learn (Linear Regression,Decision Trees)
+- Model Diagnostics 
 - Hyperparameter tuning 
