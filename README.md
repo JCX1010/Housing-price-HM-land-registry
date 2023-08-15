@@ -21,3 +21,5 @@ Explanations of column headers: https://www.gov.uk/guidance/about-the-price-paid
 * [Sklearn](https://scikit-learn.org/stable/)
 * [Matplotlib](http://matplotlib.org/)
 * [Seabourn](https://seaborn.pydata.org)
+
+<img src="https://storage.googleapis.com/kaggle-media/competitions/House%20Prices/kaggle_5407_media_housesbanner.png" width="600" height="150">
