@@ -39,3 +39,10 @@ Record Status - monthly file only
 The price paid dataset can be found here: https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads
 
 Explanations of column headers: https://www.gov.uk/guidance/about-the-price-paid-data
+
+
+## Content
+
+- Data cleaning
+- Modelling with Scikit learn 
+- Hyperparameter tuning 
