@@ -14,3 +14,10 @@ Explanations of column headers: https://www.gov.uk/guidance/about-the-price-paid
 - Modelling with Scikit learn (Linear Regression,Decision Trees)
 - Model Diagnostics 
 - Hyperparameter tuning 
+
+### Python Dependencies:
+* [NumPy](http://www.numpy.org/)
+* [Pandas](http://pandas.pydata.org/)
+* [Sklearn](https://scikit-learn.org/stable/)
+* [Tensorflow](https://www.tensorflow.org/)
+* [Matplotlib](http://matplotlib.org/)
